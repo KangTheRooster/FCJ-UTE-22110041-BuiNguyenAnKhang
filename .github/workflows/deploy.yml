@@ -19,7 +19,8 @@ jobs:
           hugo-version: "0.121.1" # hoặc phiên bản bạn dùng
 
       - name: Build Hugo site
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://kangtherooster.github.io/FCJ-UTE-22119041-BuiNguyenAnKhang/"
+
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
