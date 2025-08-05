@@ -16,14 +16,15 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "0.121.1" # hoặc phiên bản bạn dùng
+          hugo-version: "0.121.1"
+          extended: true
 
       - name: Build Hugo site
         run: hugo --minify --baseURL "https://kangtherooster.github.io/FCJ-UTE-22110041-BuiNguyenAnKhang/"
-
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
+          destination_dir: FCJ-UTE-22110041-BuiNguyenAnKhang
