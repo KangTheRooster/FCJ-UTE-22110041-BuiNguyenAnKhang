@@ -1,6 +1,6 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
-baseURL = "https://kangtherooster.github.io/FCJ-UTE-22110041-BuiNguyenAnKhang/"
+baseURL = "https://kangtherooster.github.io/"
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
