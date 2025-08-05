@@ -6,4 +6,4 @@ chapter : false
 pre : " <b> 1.2 </b> "
 ---
 #### AWS Structure
-![Structure](/images/1.introduction/Structur.png)
+{{< figure src="images/1.introduction/Structur.png" title="Structure" >}}

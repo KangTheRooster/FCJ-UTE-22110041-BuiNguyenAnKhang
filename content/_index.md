@@ -1,5 +1,5 @@
 ---
-title : "Session Management"
+title : "Devolping a music app using Beanstalk as core for backend and Amplify for front end management"
 date :  "`r Sys.Date()`" 
 weight : 1 
 chapter : false

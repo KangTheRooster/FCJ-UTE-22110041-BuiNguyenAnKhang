@@ -1,5 +1,5 @@
 ---
-title : "Quản lý Phiên"  
+title : "Xây dựng app âm nhạc với core backend là elastic beanstalk và amplify để quản lý front end"  
 date :  "`r Sys.Date()`"  
 weight : 1  
 chapter : false  
