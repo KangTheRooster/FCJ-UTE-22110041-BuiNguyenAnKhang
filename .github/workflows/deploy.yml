@@ -63,6 +63,9 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Fix logo href
+        run: |
+          find public -type f -name "*.html" -exec sed -i "s|href=\"/\"|href=\"/${WORKSHOP_PATH}/\"|g" {} +
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
