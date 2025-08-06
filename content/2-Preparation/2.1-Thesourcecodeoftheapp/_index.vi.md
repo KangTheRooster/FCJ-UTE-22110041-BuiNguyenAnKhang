@@ -18,7 +18,10 @@ pre : " <b> 2.1 </b> "
 - **XML (Thiết kế giao diện)**  
   - Cung cấp một cách có cấu trúc và linh hoạt để thiết kế các thành phần UI.  
   - Tách biệt phần thiết kế khỏi logic, giúp ứng dụng dễ bảo trì và mở rộng.  
-  - Tích hợp tốt với hệ thống xem trước (preview) của Android Studio.  
+  - Tích hợp tốt với hệ thống xem trước (preview) của Android Studio.
+[link frontend](https://drive.google.com/file/d/1qwa-RBXEuU3p0be38g_myVU-AM8T-H-M/view?usp=sharing)
+Trong trường hợp link tải không được bạn có thể clone nó từ đây
+[Github frontend](https://github.com/KangTheRooster/FCJ-UTE-22110041-BuiNguyenAnKhang-Frontend)
 
 ---
 
@@ -31,4 +34,7 @@ pre : " <b> 2.1 </b> "
 
 - **Maven (Quản lý Build & Dependency)**  
   - Tự động hóa việc build dự án, quản lý thư viện (dependencies), và đóng gói thành tệp `.jar`.  
-  - Đảm bảo tính nhất quán giữa các môi trường và đơn giản hóa việc triển khai lên AWS Elastic Beanstalk.  
+  - Đảm bảo tính nhất quán giữa các môi trường và đơn giản hóa việc triển khai lên AWS Elastic Beanstalk.
+[link backend](https://drive.google.com/file/d/1aFxxcfM7QkKKgcz2YgghuZnB7Qe-GcdI/view?usp=sharing)
+Trong trường hợp link tải không được bạn có thể clone nó từ đây
+[Github backend](https://github.com/KangTheRooster/FCJ-UTE-22110041-BuiNguyenAnKhang-Backend)
