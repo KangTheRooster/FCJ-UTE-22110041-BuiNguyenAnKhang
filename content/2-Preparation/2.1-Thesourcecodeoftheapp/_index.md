@@ -20,6 +20,8 @@ pre : " <b> 2.1 </b> "
   - Separates design from logic, making the application easier to maintain and extend.  
   - Works seamlessly with Android Studio’s preview system.  
 [link frontend](https://drive.google.com/file/d/1qwa-RBXEuU3p0be38g_myVU-AM8T-H-M/view?usp=sharing)
+if the link does not work you can git clone it from here
+[Github frontend](https://github.com/KangTheRooster/FCJ-UTE-22110041-BuiNguyenAnKhang-Frontend)
 ---
 
 #### Backend
@@ -33,3 +35,5 @@ pre : " <b> 2.1 </b> "
   - Automates project builds, dependency management, and packaging into `.jar` files.  
   - Ensures consistency across environments and simplifies deployment to AWS Elastic Beanstalk.  
 [link backend](https://drive.google.com/file/d/1aFxxcfM7QkKKgcz2YgghuZnB7Qe-GcdI/view?usp=sharing)
+if the link does not work you can git clone it from here
+[Github backend](https://github.com/KangTheRooster/FCJ-UTE-22110041-BuiNguyenAnKhang-Backend)
